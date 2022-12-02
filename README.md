@@ -11,7 +11,7 @@ This repository contains the Persian Community translation for [Oxygen Not Inclu
 
 3. Verify that the file `...\mods\Local\OxygenNotIncluded_German\strings\strings.po` now exists.
 
-4. Start the game. Select Mods in the main menu and activate the local mod "OxygenNotIncluded_German" that is now there. After restarting the game, all translated texts are in German.
+4. Start the game. Select Mods in the main menu and activate the local mod "OxygenNotIncluded_Persian" that is now there. After restarting the game, all translated texts are in Persian.
 
 ## Help along
 To contribute or report bugs, simply create a new issue or pull request with your changes.
