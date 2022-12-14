@@ -9,7 +9,7 @@ This repository contains the Persian Community translation for [Oxygen Not Inclu
 
 2. Unzip this ZIP file in the `%userprofile%\Documents\Klei\OxygenNotIncluded\mods\Local` folder. If the corresponding subfolders do not exist, create them.
 
-3. Verify that the file `...\mods\Local\OxygenNotIncluded_German\strings\strings.po` now exists.
+3. Verify that the file `...\mods\Local\OxygenNotIncluded_Persian\strings\strings.po` now exists.
 
 4. Start the game. Select Mods in the main menu and activate the local mod "OxygenNotIncluded_Persian" that is now there. After restarting the game, all translated texts are in Persian.
 
