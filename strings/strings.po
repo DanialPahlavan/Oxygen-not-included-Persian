@@ -66682,52 +66682,54 @@ msgid ""
 "Should I really quit?\n"
 "All unsaved progress will be lost."
 msgstr ""
+"\n ؟ﻡﻮﺸﺑ ﺝﺭﺎﺧ ﺪﯾﺎﺑ ﺎﻌﻗﺍﻭ ﺎﯾﺁ "
+".ﺖﻓﺭ ﺪﻫﺍﻮﺧ ﻦﯿﺑ ﺯﺍ ﻩﺪﺸﻧ ﻩﺮﯿﺧﺫ ىﺎﻫ ﺖﻓﺮﺸﯿﭘ ﻡﺎﻤﺗ "
 
 #. STRINGS.UI.FRONTEND.MAINMENU.DLC.ACTIVATE_EXPANSION1
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.DLC.ACTIVATE_EXPANSION1"
 msgid "ACTIVATE DLC"
-msgstr ""
+msgstr "DLC ﻥﺩﺮﻛ  ﻝﺎﻌﻓ "
 
 #. STRINGS.UI.FRONTEND.MAINMENU.DLC.ACTIVATE_EXPANSION1_DESC
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.DLC.ACTIVATE_EXPANSION1_DESC"
 msgid "The game will need to restart in order to activate <i>Spaced Out!</i>"
-msgstr ""
+msgstr "ﺩﻮﺷ ىﺯﺍﺪﻧﺍ ﻩﺍﺭ ﻩﺭﺎﺑﻭﺩ ﺪﯾﺎﺑ ىﺯﺎﺑ <i>Spaced Out!</i> ﻥﺩﺮﻛ  ﻝﺎﻌﻓ ىﺍﺮﺑ"
 
 #. STRINGS.UI.FRONTEND.MAINMENU.DLC.ACTIVATE_EXPANSION1_RAIL_DESC
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.DLC.ACTIVATE_EXPANSION1_RAIL_DESC"
 msgid ""
 "<i>Spaced Out!</i> will be activated the next time you launch the game. The "
 "game will now close."
-msgstr ""
+msgstr ".ﺪﺷ ﺪﻫﺍﻮﺧ ﻪﺘﺴﺑ ﻥﻮﻨﻛ ﺍ ىﺯﺎﺑ .ﺩﻮﺷ ﯽﻣ ﻝﺎﻌﻓ ﺪﯿﻨﻛ  ﯽﻣ ﺍﺮﺟﺍ ﺍﺭ ىﺯﺎﺑ ﻪﻛ  ﺪﻌﺑ ﻪﻌﻓﺩ <i>Spaced Out!</i> "
 
 #. STRINGS.UI.FRONTEND.MAINMENU.DLC.DEACTIVATE_EXPANSION1
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.DLC.DEACTIVATE_EXPANSION1"
 msgid "DEACTIVATE DLC"
-msgstr ""
+msgstr "DLC ﻥﺩﺮﻛ  ﻝﺎﻌﻓ ﺮﯿﻏ "
 
 #. STRINGS.UI.FRONTEND.MAINMENU.DLC.DEACTIVATE_EXPANSION1_DESC
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.DLC.DEACTIVATE_EXPANSION1_DESC"
 msgid ""
 "The game will need to restart in order to activate the <i>Oxygen Not "
 "Included</i> base game."
-msgstr ""
+msgstr ".ﺩﻮﺷ ىﺯﺍﺪﻧﺍ ﻩﺍﺭ ﻩﺭﺎﺑﻭﺩ ﺪﯾﺎﺑ ىﺯﺎﺑ <i>Oxygen Not Included</i> ﻪﯾﺎﭘ ىﺯﺎﺑ ﻥﺩﺮﻛ  ﻝﺎﻌﻓ ىﺍﺮﺑ "
 
 #. STRINGS.UI.FRONTEND.MAINMENU.DLC.DEACTIVATE_EXPANSION1_RAIL_DESC
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.DLC.DEACTIVATE_EXPANSION1_RAIL_DESC"
 msgid ""
 "<i>Spaced Out!</i> will be deactivated the next time you launch the game. "
 "The game will now close."
-msgstr ""
+msgstr ".ﺪﺷ ﺪﻫﺍﻮﺧ ﻪﺘﺴﺑ ﻥﻮﻨﻛ ﺍ ىﺯﺎﺑ .ﺩﻮﺷ ﯽﻣ ﻝﺎﻌﻓﺮﯿﻏ ﺪﯿﻨﻛ  ﯽﻣ ﺍﺮﺟﺍ ﺍﺭ ىﺯﺎﺑ ﻪﻛ  ﺪﻌﺑ ﻪﻌﻓﺩ <i>Spaced Out!</i> "
 
 #. STRINGS.UI.FRONTEND.MAINMENU.LOADGAME
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.LOADGAME"
 msgid "LOAD GAME"
-msgstr "ﻱﺯﺎﺑ ﻱﺭﺍﺬﻛﺭﺎﺑ"
+msgstr "ىﺯﺎﺑ ىﺭﺍﺬﮔﺭﺎﺑ "
 
 #. STRINGS.UI.FRONTEND.MAINMENU.NEWGAME
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.NEWGAME"
 msgid "NEW GAME"
-msgstr "ﺪﯾﺪﺟ ﯼﺯﺎﺑ ﻉﻭﺮﺷ"
+msgstr "ﺪﯾﺪﺟ ىﺯﺎﺑ "
 
 #. STRINGS.UI.FRONTEND.MAINMENU.OPTIONS
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.OPTIONS"
@@ -66754,11 +66756,13 @@ msgid ""
 "Should I really quit?\n"
 "All unsaved progress will be lost."
 msgstr ""
+"؟ﻡﻮﺷ ﺝﺭﺎﺧ ﯽﻠﺻﺍ ﯼﻮﻨﻣ ﺯﺍ ﺪﯾﺎﺑ ﺎﯾﺁ \n"
+"ﺖﻓﺭ ﺪﻫﺍﻮﺧ ﻦﯿﺑ ﺯﺍ ﻩﺪﺸﻧ ﻩﺮﯿﺧﺫ ﯼﺎﻫ ﺖﻓﺮﺸﯿﭘ ﻡﺎﻤﺗ."
 
 #. STRINGS.UI.FRONTEND.MAINMENU.RESUMEBUTTON_BASENAME
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.RESUMEBUTTON_BASENAME"
 msgid "{0}: Cycle {1}"
-msgstr ""
+msgstr "{0}: ﻪﺧﺮﭼ  {1}"
 
 #. STRINGS.UI.FRONTEND.MAINMENU.RESUMEGAME
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.RESUMEGAME"
@@ -66770,22 +66774,22 @@ msgctxt "STRINGS.UI.FRONTEND.MAINMENU.RETIRECONFIRM"
 msgid ""
 "Should I surrender under the soul-crushing weight of this universe's entropy "
 "and retire my colony?"
-msgstr ""
+msgstr "؟ﻢﻨﻛ  ﻪﺘﺴﺸﻧﺯﺎﺑ ﺍﺭ ﻡﺍ ﯽﻧﻮﻠﻛ  ﻭ ﻡﻮﺷ ﻢﯿﻠﺴﺗ ﻥﺎﻬﺟ ﻦﯾﺍ ﯽﭘﻭﺮﺘﻧﺁ ﻩﺪﻨﻨﻛ  ﺩﺮﺧ ﺡﻭﺭ ﺭﺎﺑ ﺮﯾﺯ ﺪﯾﺎﺑ ﺎﯾﺁ "
 
 #. STRINGS.UI.FRONTEND.MAINMENU.RETIREDCOLONIES
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.RETIREDCOLONIES"
 msgid "COLONY SUMMARIES"
-msgstr ""
+msgstr "ﯽﻧﻮﻠﻛ  ﻪﺻﺎﻠﺧ"
 
 #. STRINGS.UI.FRONTEND.MAINMENU.SCENARIOS
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.SCENARIOS"
 msgid "SCENARIOS"
-msgstr ""
+msgstr "ﺎﻫﻮﯾﺭﺎﻨﺳ "
 
 #. STRINGS.UI.FRONTEND.MAINMENU.STARTDEMO
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.STARTDEMO"
 msgid "START DEMO"
-msgstr ""
+msgstr "ﻮﻣﺩ ﻉﻭﺮﺷ "
 
 #. STRINGS.UI.FRONTEND.MAINMENU.TRANSLATIONS
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.TRANSLATIONS"
