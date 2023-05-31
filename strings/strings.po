@@ -66081,7 +66081,7 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.ACCEPT_CHANGES
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.ACCEPT_CHANGES"
 msgid "Accept Changes?"
-msgstr ""
+msgstr "؟ﺪﯾﺮﯾﺬﭘ ﯽﻣ ﺍﺭ ﺕﺍﺮﯿﯿﻐﺗ "
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.ACCEPT_CHANGES_STRING_COLOR
 msgctxt ""
@@ -66092,31 +66092,34 @@ msgid ""
 "\n"
 "Accept Changes?"
 msgstr ""
+"\n.ﺩﺭﺍﺩ ﺩﺪﺠﻣ ىﺯﺍﺪﻧﺍ ﻩﺍﺭ ﻪﺑ ﺯﺎﯿﻧ ىﺯﺎﺑ ﻦﺘﻣ ﺭﺩ ﮓﻧﺭ ﺕﺍﺮﯿﯿﻐﺗ ﻝﺎﻤﻋﺍ ﺎﻣﺍ ﺩﻮﺑ ﺪﻫﺍﻮﺧ ﻩﺪﻫﺎﺸﻣ ﻞﺑﺎﻗ ﺍﺭﻮﻓ ﻂﺑﺍﺭ ﺕﺍﺮﯿﯿﻐﺗ "
+"\n"
+"؟ﺪﯾﺮﯾﺬﭘ ﯽﻣ ﺍﺭ ﺕﺍﺮﯿﯿﻐﺗ "
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.APPLYBUTTON
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.APPLYBUTTON"
 msgid "Apply"
-msgstr ""
+msgstr "ﻥﺩﺮﻛ  ﻝﺎﻤﻋﺍ "
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.COLOR_MODE_DEFAULT
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.COLOR_MODE_DEFAULT"
 msgid "Default"
-msgstr ""
+msgstr "ﺽﺮﻓ ﺶﯿﭘ "
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.COLOR_MODE_DEUTERANOPIA
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.COLOR_MODE_DEUTERANOPIA"
 msgid "Deuteranopia"
-msgstr ""
+msgstr "Deuteranopia ﯽﮕﻧﺭ ﺖﻟﺎﺣ  "
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.COLOR_MODE_PROTANOPIA
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.COLOR_MODE_PROTANOPIA"
 msgid "Protanopia"
-msgstr ""
+msgstr "Protanopia ﯽﮕﻧﺭ ﺖﻟﺎﺣ  "
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.COLOR_MODE_TRITANOPIA
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.COLOR_MODE_TRITANOPIA"
 msgid "Tritanopia"
-msgstr ""
+msgstr "Tritanopia ﯽﮕﻧﺭ ﺖﻟﺎﺣ  "
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.COLORBLIND_FEEDBACK
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.COLORBLIND_FEEDBACK"
@@ -66129,62 +66132,67 @@ msgid ""
 "\n"
 "Your feedback is extremely helpful to us!"
 msgstr ""
+"\n .ﺖﺳﺍ ﻡﺎﺠﻧﺍ ﻝﺎﺣ ﺭﺩ ﺮﺿﺎﺣ ﻝﺎﺣ ﺭﺩ ﯽﮕﻧﺭﺭﻮﻛ  ىﺎﻫ‌ﻪﻨﯾﺰﮔ "
+"\n"
+"\n .ﺪﯾﺭﺍﺬﮕﺑ ﻥﺎﯿﻣ ﺭﺩ ﺎﻣ ﺎﺑ ﺍﺭ ﺩﻮﺧ ﺕﺎﯿﺑﺮﺠﺗ ﻭ ﺪﯿﻨﻛ  ﺪﯾﺩﺯﺎﺑ ﻥﺎﻤﺘﻔﮔ ﺭﺎﻟﺎﺗ ﺯﺍ ًﺎﻔﻄﻟ ،ﺪﯿﺘﺷﺍﺩ ﻞﻜﺸﻣ ﺽﺮﻓ‌ﺶﯿﭘ ىﺎﻫ‌ﮓﻧﺭ ﺯﺍ ﻚﯾ ﺮﻫ ﺎﺑ ﺎﯾ ﺪﯾﺮﺑ‌ﯽﻣ ﺩﻮﺳ ﻦﯾﺰﮕﯾﺎﺟ ﮓﻧﺭ ﺖﻟﺎﺣ ﻚﯾ ﺯﺍ ﺮﮔﺍ "
+"\n"
+"!ﺖﺳﺍ ﺪﯿﻔﻣ ﺭﺎﯿﺴﺑ ﺎﻣ ىﺍﺮﺑ ﺎﻤﺷ ﺕﺍﺮﻈﻧ "
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.COLORBLIND_FEEDBACK_BUTTON
 msgctxt ""
 "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.COLORBLIND_FEEDBACK_BUTTON"
 msgid "Provide Feedback"
-msgstr ""
+msgstr "ﺩﺭﻮﺧﺯﺎﺑ ﻪﺋﺍﺭﺍ "
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.COLORMODE
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.COLORMODE"
 msgid "Color Mode:"
-msgstr ""
+msgstr ":ﮓﻧﺭ ﺖﻟﺎﺣ "
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.DONE_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.DONE_BUTTON"
 msgid "Done"
-msgstr ""
+msgstr "ﺩﻮﺷ ﻡﺎﺠﻧﺍ "
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.FULLSCREEN
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.FULLSCREEN"
 msgid "Fullscreen"
-msgstr ""
+msgstr "ﻪﺤﻔﺻ ﻡﺎﻤﺗ "
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.HEADER_DISPLAY
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.HEADER_DISPLAY"
 msgid "DISPLAY"
-msgstr ""
+msgstr "ﺶﯾﺎﻤﻧ ﻪﺤﻔﺻ "
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.HEADER_UI
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.HEADER_UI"
 msgid "INTERFACE"
-msgstr ""
+msgstr "ىﺮﺑﺭﺎﻛ  ﻂﺑﺍﺭ "
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.LOWRES
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.LOWRES"
 msgid "Low Resolution Textures"
-msgstr ""
+msgstr "ﻦﯿﯾﺎﭘ ﺡﻮﺿﻭ ﺎﺑ ﺖﻓﺎﺑ "
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.RESOLUTION
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.RESOLUTION"
 msgid "Resolution:"
-msgstr ""
+msgstr ":ﺡﻮﺿﻭ "
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.REVERTBUTTON
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.REVERTBUTTON"
 msgid "Revert"
-msgstr ""
+msgstr "ﻥﺪﻧﺍﺩﺮﮔﺮﺑ "
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.TITLE"
 msgid "GRAPHICS OPTIONS"
-msgstr ""
+msgstr "ﻚﯿﻓﺍﺮﮔ ﺕﺎﻤﯿﻈﻨﺗ "
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.UI_SCALE
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.UI_SCALE"
 msgid "UI Scale"
-msgstr ""
+msgstr "UI ﺱﺎﯿﻘﻣ "
 
 #. STRINGS.UI.FRONTEND.INPUT_BINDINGS_SCREEN.APPLY
 msgctxt "STRINGS.UI.FRONTEND.INPUT_BINDINGS_SCREEN.APPLY"
