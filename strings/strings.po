@@ -67523,57 +67523,57 @@ msgstr "ﯼﺯﺎﺑ ﺕﺎﻤﯿﻈﻨﺗ"
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.AUDIO
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.AUDIO"
 msgid "Audio"
-msgstr ""
+msgstr "ﺍﺪﺻ "
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.BACK
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.BACK"
 msgid "Done"
-msgstr ""
+msgstr "ﺩﻮﺷ ﻡﺎﺠﻧﺍ "
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.CONTROLS
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.CONTROLS"
 msgid "Controls"
-msgstr ""
+msgstr "ﺎﻫ ﻝﺮﺘﻨﻛ  "
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.CREDITS
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.CREDITS"
 msgid "Credits"
-msgstr ""
+msgstr "ﻥﺎﮔﺪﻧﺯﺎﺳ "
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.FEEDBACK
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.FEEDBACK"
 msgid "Feedback"
-msgstr ""
+msgstr "ﺩﺭﻮﺧﺯﺎﺑ "
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.GAME
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.GAME"
 msgid "Game"
-msgstr ""
+msgstr "ىﺯﺎﺑ "
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.GRAPHICS
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.GRAPHICS"
 msgid "Graphics"
-msgstr ""
+msgstr "ﻚﯿﻓﺍﺮﮔ "
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.LANGUAGE
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.LANGUAGE"
 msgid "Change Language"
-msgstr ""
+msgstr "ﻥﺎﺑﺯ ﺮﯿﯿﻐﺗ "
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.METRICS
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.METRICS"
 msgid "Data Collection"
-msgstr ""
+msgstr "ﺎﻫ ﻩﺩﺍﺩ ىﺭﻭﺁ ﻊﻤﺟ "
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.MODS
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.MODS"
 msgid "MODS"
-msgstr ""
+msgstr "ﺎﻫ ﺪﻣ "
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.RESET_TUTORIAL
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.RESET_TUTORIAL"
 msgid "Reset Tutorial Messages"
-msgstr ""
+msgstr "ﯽﺷﺯﻮﻣﺁ ىﺎﻫ ﻡﺎﯿﭘ ﯽﻧﺎﺸﻧﺯﺎﺑ "
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.RESET_TUTORIAL_WARNING
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.RESET_TUTORIAL_WARNING"
@@ -67581,61 +67581,63 @@ msgid ""
 "All tutorial messages will be reset, and\n"
 "will show up again the next time you play the game."
 msgstr ""
+"ﺪﺷ ﺪﻨﻫﺍﻮﺧ ﯽﻧﺎﺸﻧﺯﺎﺑ ﯽﺷﺯﻮﻣﺁ ىﺎﻫ ﻡﺎﯿﭘ ﻪﻤﻫ  \n"
+".ﺩﻮﺷ ﯽﻣ ﺮﻫﺎﻇ ﻩﺭﺎﺑﻭﺩ ﺪﯿﻫﺩ ﯽﻣ ﻡﺎﺠﻧﺍ ﺍﺭ ىﺯﺎﺑ ﻪﻛ  ﺪﻌﺑ ﻪﻌﻓﺩ ﻭ "
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.SAVE_OPTIONS
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.SAVE_OPTIONS"
 msgid "Save Options"
-msgstr ""
+msgstr "ﺕﺎﻤﯿﻈﻨﺗ ﻩﺮﯿﺧﺫ "
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.TITLE"
 msgid "OPTIONS"
-msgstr ""
+msgstr "ﺕﺎﻤﯿﻈﻨﺗ "
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.TOGGLE_SANDBOX_SCREEN.BACKUP_SAVE_GAME_APPEND
 msgctxt ""
 "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.TOGGLE_SANDBOX_SCREEN."
 "BACKUP_SAVE_GAME_APPEND"
 msgid " (BACKUP)"
-msgstr ""
+msgstr " (ىﺮﯿﮔ ﻥﺎﺒﯿﺘﺸﭘ )"
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.TOGGLE_SANDBOX_SCREEN.CANCEL
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.TOGGLE_SANDBOX_SCREEN.CANCEL"
 msgid "Cancel"
-msgstr ""
+msgstr "ﻮﻐﻟ "
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.TOGGLE_SANDBOX_SCREEN.CONFIRM
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.TOGGLE_SANDBOX_SCREEN.CONFIRM"
 msgid "Enable Sandbox Mode"
-msgstr ""
+msgstr "Sandbox ﺖﻟﺎﺣ ىﺯﺎﺳ ﻝﺎﻌﻓ "
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.TOGGLE_SANDBOX_SCREEN.CONFIRM_SAVE_BACKUP
 msgctxt ""
 "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.TOGGLE_SANDBOX_SCREEN.CONFIRM_SAVE_BACKUP"
 msgid "Enable Sandbox Mode, but save a backup first"
-msgstr ""
+msgstr "ﺪﯿﻨﻛ  ﻩﺮﯿﺧﺫ ﻥﺎﺒﯿﺘﺸﭘ ﻪﺨﺴﻧ ﻚﯾ ﺍﺪﺘﺑﺍ ﺎﻣﺍ Sandbox، ﺖﻟﺎﺣ ىﺯﺎﺳ ﻝﺎﻌﻓ "
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.TOGGLE_SANDBOX_SCREEN.UNLOCK_SANDBOX_WARNING
 msgctxt ""
 "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.TOGGLE_SANDBOX_SCREEN."
 "UNLOCK_SANDBOX_WARNING"
 msgid "Sandbox Mode will be enabled for this save file"
-msgstr ""
+msgstr "ﺪﺷ ﺪﻫﺍﻮﺧ ﻝﺎﻌﻓ ﻩﺮﯿﺧﺫ ﻞﯾﺎﻓ ﻦﯾﺍ ىﺍﺮﺑ Sandbox ﺖﻟﺎﺣ "
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.UNITS
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.UNITS"
 msgid "Temperature Units"
-msgstr ""
+msgstr "ﺎﻣﺩ ىﺎﻫﺪﺣﺍﻭ "
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.UNLOCK_SANDBOX
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.UNLOCK_SANDBOX"
 msgid "Unlock Sandbox Mode"
-msgstr ""
+msgstr "Sandbox ﺖﻟﺎﺣ ﻥﺩﺮﻛ  ﺯﺎﺑ "
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.WORLD_GEN
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.WORLD_GEN"
 msgid "World Generation Key"
-msgstr ""
+msgstr "ﻥﺎﻬﺟ ﺖﺧﺎﺳ ﺪﯿﻠﻛ  "
 
 #. STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.FULLPATCHNOTES_TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.FULLPATCHNOTES_TOOLTIP"
