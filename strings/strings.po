@@ -64552,7 +64552,7 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUDIO_BUS_AMBIENCE
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUDIO_BUS_AMBIENCE"
 msgid "Ambience"
-msgstr ""
+msgstr "ﻂﯿﺤﻣ "
 
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUDIO_BUS_MASTER
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUDIO_BUS_MASTER"
@@ -64572,12 +64572,12 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUDIO_BUS_UI
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUDIO_BUS_UI"
 msgid "UI"
-msgstr ""
+msgstr "ىﺮﺑﺭﺎﻛ  ﻂﺑﺍﺭ "
 
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUTOMATION_SOUNDS_ALWAYS
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUTOMATION_SOUNDS_ALWAYS"
 msgid "Always play automation sounds"
-msgstr ""
+msgstr "ﺪﯿﻨﻛ  ﺶﺨﭘ ﺍﺭ ﻥﻮﯿﺳﺎﻣﻮﺗﺍ ىﺎﻫﺍﺪﺻ ﻪﺸﯿﻤﻫ "
 
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUTOMATION_SOUNDS_ALWAYS_TOOLTIP
 msgctxt ""
@@ -64585,12 +64585,12 @@ msgctxt ""
 msgid ""
 "If enabled, automation sound effects will play even when outside of the "
 "<b>Automation Overlay</b>"
-msgstr ""
+msgstr "ﺩﻮﺷ‌ﯽﻣ ﺶﺨﭘ ﺪﯿﺘﺴﻫ ﻥﻮﯿﺳﺎﻣﻮﺗﺍ ﻩﺩﻭﺪﺤﻣ ﺯﺍ ﺝﺭﺎﺧ ﻪﻛ  ﯽﻧﺎﻣﺯ ﯽﺘﺣ ﻥﻮﯿﺳﺎﻣﻮﺗﺍ ﯽﺗﻮﺻ ىﺎﻫ‌ﻩﻮﻠﺟ ،ﺪﺷﺎﺑ ﻝﺎﻌﻓ ﺮﮔﺍ "
 
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.DONE_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.DONE_BUTTON"
 msgid "Done"
-msgstr ""
+msgstr "ﺩﻮﺷ ﻡﺎﺠﻧﺍ "
 
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.HEADER_SETTINGS
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.HEADER_SETTINGS"
@@ -64600,36 +64600,36 @@ msgstr "ﺕﺎﻤﯿﻈﻨﺗ"
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.HEADER_VOLUME
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.HEADER_VOLUME"
 msgid "VOLUME"
-msgstr ""
+msgstr "ﺍﺪﺻ ﻢﺠﺣ "
 
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.MUSIC_EVERY_CYCLE
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.MUSIC_EVERY_CYCLE"
 msgid "Play background music each morning"
-msgstr ""
+msgstr "ﺩﻮﺷ ﺶﺨﭘ ﻪﻨﯿﻣﺯ ﺲﭘ ﯽﻘﯿﺳﻮﻣ ﺢﺒﺻ ﺯﻭﺭ ﺮﻫ "
 
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.MUSIC_EVERY_CYCLE_TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.MUSIC_EVERY_CYCLE_TOOLTIP"
 msgid ""
 "If enabled, background music will play every cycle instead of every few "
 "cycles"
-msgstr ""
+msgstr "ﺩﻮﺷ ‌ﯽﻣ ﺶﺨﭘ ﻪﺧﺮﭼ ﺪﻨﭼ ﺮﻫ ىﺎﺟ ﻪﺑ ﻪﺧﺮﭼ ﺮﻫ ﻪﻨﯿﻣﺯ‌ﺲﭘ ﯽﻘﯿﺳﻮﻣ ،ﺪﺷﺎﺑ ﻝﺎﻌﻓ ﺮﮔﺍ "
 
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.MUTE_ON_FOCUS_LOST
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.MUTE_ON_FOCUS_LOST"
 msgid "Mute when unfocused"
-msgstr ""
+msgstr "ﺩﻮﺷ ﺍﺪﺻ ﯽﺑ ،ﺰﻛ ﺮﻤﺗ ﻡﺪﻋ ﺕﺭﻮﺻ ﺭﺩ "
 
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.MUTE_ON_FOCUS_LOST_TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.MUTE_ON_FOCUS_LOST_TOOLTIP"
 msgid ""
 "If enabled, the game will be muted while minimized or if the application "
 "loses focus"
-msgstr ""
+msgstr "ﺩﻮﺷ ﯽﻣ ﺍﺪﺻ ﯽﺑ ،ﺪﻫﺪﺑ ﺖﺳﺩ ﺯﺍ ﺍﺭ ﺩﻮﺧ ﺰﻛ ﺮﻤﺗ ﻪﻣﺎﻧﺮﺑ ﺮﮔﺍ ﺎﯾ ﺪﺳﺭ ﯽﻣ ﻞﻗﺍﺪﺣ ﻪﺑ ﻪﻛ  ﯽﻟﺎﺣ ﺭﺩ ىﺯﺎﺑ ،ﺪﺷﺎﺑ ﻝﺎﻌﻓ ﺮﮔﺍ "
 
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.TITLE"
 msgid "AUDIO OPTIONS"
-msgstr ""
+msgstr "ﺍﺪﺻ ﺕﺎﻤﯿﻈﻨﺗ "
 
 #. STRINGS.UI.FRONTEND.CLUSTERCATEGORYSELECTSCREEN.BLANK_DESC
 msgctxt "STRINGS.UI.FRONTEND.CLUSTERCATEGORYSELECTSCREEN.BLANK_DESC"
