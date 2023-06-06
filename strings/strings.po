@@ -64552,7 +64552,7 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUDIO_BUS_AMBIENCE
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUDIO_BUS_AMBIENCE"
 msgid "Ambience"
-msgstr ""
+msgstr "ﻂﯿﺤﻣ "
 
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUDIO_BUS_MASTER
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUDIO_BUS_MASTER"
@@ -64572,12 +64572,12 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUDIO_BUS_UI
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUDIO_BUS_UI"
 msgid "UI"
-msgstr ""
+msgstr "ىﺮﺑﺭﺎﻛ  ﻂﺑﺍﺭ "
 
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUTOMATION_SOUNDS_ALWAYS
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUTOMATION_SOUNDS_ALWAYS"
 msgid "Always play automation sounds"
-msgstr ""
+msgstr "ﺪﯿﻨﻛ  ﺶﺨﭘ ﺍﺭ ﻥﻮﯿﺳﺎﻣﻮﺗﺍ ىﺎﻫﺍﺪﺻ ﻪﺸﯿﻤﻫ "
 
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUTOMATION_SOUNDS_ALWAYS_TOOLTIP
 msgctxt ""
@@ -64585,12 +64585,12 @@ msgctxt ""
 msgid ""
 "If enabled, automation sound effects will play even when outside of the "
 "<b>Automation Overlay</b>"
-msgstr ""
+msgstr "ﺩﻮﺷ‌ﯽﻣ ﺶﺨﭘ ﺪﯿﺘﺴﻫ ﻥﻮﯿﺳﺎﻣﻮﺗﺍ ﻩﺩﻭﺪﺤﻣ ﺯﺍ ﺝﺭﺎﺧ ﻪﻛ  ﯽﻧﺎﻣﺯ ﯽﺘﺣ ﻥﻮﯿﺳﺎﻣﻮﺗﺍ ﯽﺗﻮﺻ ىﺎﻫ‌ﻩﻮﻠﺟ ،ﺪﺷﺎﺑ ﻝﺎﻌﻓ ﺮﮔﺍ "
 
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.DONE_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.DONE_BUTTON"
 msgid "Done"
-msgstr ""
+msgstr "ﺩﻮﺷ ﻡﺎﺠﻧﺍ "
 
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.HEADER_SETTINGS
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.HEADER_SETTINGS"
@@ -64600,36 +64600,36 @@ msgstr "ﺕﺎﻤﯿﻈﻨﺗ"
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.HEADER_VOLUME
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.HEADER_VOLUME"
 msgid "VOLUME"
-msgstr ""
+msgstr "ﺍﺪﺻ ﻢﺠﺣ "
 
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.MUSIC_EVERY_CYCLE
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.MUSIC_EVERY_CYCLE"
 msgid "Play background music each morning"
-msgstr ""
+msgstr "ﺩﻮﺷ ﺶﺨﭘ ﻪﻨﯿﻣﺯ ﺲﭘ ﯽﻘﯿﺳﻮﻣ ﺢﺒﺻ ﺯﻭﺭ ﺮﻫ "
 
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.MUSIC_EVERY_CYCLE_TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.MUSIC_EVERY_CYCLE_TOOLTIP"
 msgid ""
 "If enabled, background music will play every cycle instead of every few "
 "cycles"
-msgstr ""
+msgstr "ﺩﻮﺷ ‌ﯽﻣ ﺶﺨﭘ ﻪﺧﺮﭼ ﺪﻨﭼ ﺮﻫ ىﺎﺟ ﻪﺑ ﻪﺧﺮﭼ ﺮﻫ ﻪﻨﯿﻣﺯ‌ﺲﭘ ﯽﻘﯿﺳﻮﻣ ،ﺪﺷﺎﺑ ﻝﺎﻌﻓ ﺮﮔﺍ "
 
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.MUTE_ON_FOCUS_LOST
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.MUTE_ON_FOCUS_LOST"
 msgid "Mute when unfocused"
-msgstr ""
+msgstr "ﺩﻮﺷ ﺍﺪﺻ ﯽﺑ ،ﺰﻛ ﺮﻤﺗ ﻡﺪﻋ ﺕﺭﻮﺻ ﺭﺩ "
 
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.MUTE_ON_FOCUS_LOST_TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.MUTE_ON_FOCUS_LOST_TOOLTIP"
 msgid ""
 "If enabled, the game will be muted while minimized or if the application "
 "loses focus"
-msgstr ""
+msgstr "ﺩﻮﺷ ﯽﻣ ﺍﺪﺻ ﯽﺑ ،ﺪﻫﺪﺑ ﺖﺳﺩ ﺯﺍ ﺍﺭ ﺩﻮﺧ ﺰﻛ ﺮﻤﺗ ﻪﻣﺎﻧﺮﺑ ﺮﮔﺍ ﺎﯾ ﺪﺳﺭ ﯽﻣ ﻞﻗﺍﺪﺣ ﻪﺑ ﻪﻛ  ﯽﻟﺎﺣ ﺭﺩ ىﺯﺎﺑ ،ﺪﺷﺎﺑ ﻝﺎﻌﻓ ﺮﮔﺍ "
 
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.TITLE"
 msgid "AUDIO OPTIONS"
-msgstr ""
+msgstr "ﺍﺪﺻ ﺕﺎﻤﯿﻈﻨﺗ "
 
 #. STRINGS.UI.FRONTEND.CLUSTERCATEGORYSELECTSCREEN.BLANK_DESC
 msgctxt "STRINGS.UI.FRONTEND.CLUSTERCATEGORYSELECTSCREEN.BLANK_DESC"
@@ -66081,7 +66081,7 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.ACCEPT_CHANGES
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.ACCEPT_CHANGES"
 msgid "Accept Changes?"
-msgstr ""
+msgstr "؟ﺪﯾﺮﯾﺬﭘ ﯽﻣ ﺍﺭ ﺕﺍﺮﯿﯿﻐﺗ "
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.ACCEPT_CHANGES_STRING_COLOR
 msgctxt ""
@@ -66092,31 +66092,34 @@ msgid ""
 "\n"
 "Accept Changes?"
 msgstr ""
+"\n.ﺩﺭﺍﺩ ﺩﺪﺠﻣ ىﺯﺍﺪﻧﺍ ﻩﺍﺭ ﻪﺑ ﺯﺎﯿﻧ ىﺯﺎﺑ ﻦﺘﻣ ﺭﺩ ﮓﻧﺭ ﺕﺍﺮﯿﯿﻐﺗ ﻝﺎﻤﻋﺍ ﺎﻣﺍ ﺩﻮﺑ ﺪﻫﺍﻮﺧ ﻩﺪﻫﺎﺸﻣ ﻞﺑﺎﻗ ﺍﺭﻮﻓ ﻂﺑﺍﺭ ﺕﺍﺮﯿﯿﻐﺗ "
+"\n"
+"؟ﺪﯾﺮﯾﺬﭘ ﯽﻣ ﺍﺭ ﺕﺍﺮﯿﯿﻐﺗ "
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.APPLYBUTTON
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.APPLYBUTTON"
 msgid "Apply"
-msgstr ""
+msgstr "ﻥﺩﺮﻛ  ﻝﺎﻤﻋﺍ "
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.COLOR_MODE_DEFAULT
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.COLOR_MODE_DEFAULT"
 msgid "Default"
-msgstr ""
+msgstr "ﺽﺮﻓ ﺶﯿﭘ "
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.COLOR_MODE_DEUTERANOPIA
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.COLOR_MODE_DEUTERANOPIA"
 msgid "Deuteranopia"
-msgstr ""
+msgstr "Deuteranopia ﯽﮕﻧﺭ ﺖﻟﺎﺣ  "
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.COLOR_MODE_PROTANOPIA
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.COLOR_MODE_PROTANOPIA"
 msgid "Protanopia"
-msgstr ""
+msgstr "Protanopia ﯽﮕﻧﺭ ﺖﻟﺎﺣ  "
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.COLOR_MODE_TRITANOPIA
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.COLOR_MODE_TRITANOPIA"
 msgid "Tritanopia"
-msgstr ""
+msgstr "Tritanopia ﯽﮕﻧﺭ ﺖﻟﺎﺣ  "
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.COLORBLIND_FEEDBACK
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.COLORBLIND_FEEDBACK"
@@ -66129,62 +66132,67 @@ msgid ""
 "\n"
 "Your feedback is extremely helpful to us!"
 msgstr ""
+"\n .ﺖﺳﺍ ﻡﺎﺠﻧﺍ ﻝﺎﺣ ﺭﺩ ﺮﺿﺎﺣ ﻝﺎﺣ ﺭﺩ ﯽﮕﻧﺭﺭﻮﻛ  ىﺎﻫ‌ﻪﻨﯾﺰﮔ "
+"\n"
+"\n .ﺪﯾﺭﺍﺬﮕﺑ ﻥﺎﯿﻣ ﺭﺩ ﺎﻣ ﺎﺑ ﺍﺭ ﺩﻮﺧ ﺕﺎﯿﺑﺮﺠﺗ ﻭ ﺪﯿﻨﻛ  ﺪﯾﺩﺯﺎﺑ ﻥﺎﻤﺘﻔﮔ ﺭﺎﻟﺎﺗ ﺯﺍ ًﺎﻔﻄﻟ ،ﺪﯿﺘﺷﺍﺩ ﻞﻜﺸﻣ ﺽﺮﻓ‌ﺶﯿﭘ ىﺎﻫ‌ﮓﻧﺭ ﺯﺍ ﻚﯾ ﺮﻫ ﺎﺑ ﺎﯾ ﺪﯾﺮﺑ‌ﯽﻣ ﺩﻮﺳ ﻦﯾﺰﮕﯾﺎﺟ ﮓﻧﺭ ﺖﻟﺎﺣ ﻚﯾ ﺯﺍ ﺮﮔﺍ "
+"\n"
+"!ﺖﺳﺍ ﺪﯿﻔﻣ ﺭﺎﯿﺴﺑ ﺎﻣ ىﺍﺮﺑ ﺎﻤﺷ ﺕﺍﺮﻈﻧ "
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.COLORBLIND_FEEDBACK_BUTTON
 msgctxt ""
 "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.COLORBLIND_FEEDBACK_BUTTON"
 msgid "Provide Feedback"
-msgstr ""
+msgstr "ﺩﺭﻮﺧﺯﺎﺑ ﻪﺋﺍﺭﺍ "
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.COLORMODE
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.COLORMODE"
 msgid "Color Mode:"
-msgstr ""
+msgstr ":ﮓﻧﺭ ﺖﻟﺎﺣ "
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.DONE_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.DONE_BUTTON"
 msgid "Done"
-msgstr ""
+msgstr "ﺩﻮﺷ ﻡﺎﺠﻧﺍ "
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.FULLSCREEN
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.FULLSCREEN"
 msgid "Fullscreen"
-msgstr ""
+msgstr "ﻪﺤﻔﺻ ﻡﺎﻤﺗ "
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.HEADER_DISPLAY
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.HEADER_DISPLAY"
 msgid "DISPLAY"
-msgstr ""
+msgstr "ﺶﯾﺎﻤﻧ ﻪﺤﻔﺻ "
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.HEADER_UI
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.HEADER_UI"
 msgid "INTERFACE"
-msgstr ""
+msgstr "ىﺮﺑﺭﺎﻛ  ﻂﺑﺍﺭ "
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.LOWRES
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.LOWRES"
 msgid "Low Resolution Textures"
-msgstr ""
+msgstr "ﻦﯿﯾﺎﭘ ﺡﻮﺿﻭ ﺎﺑ ﺖﻓﺎﺑ "
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.RESOLUTION
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.RESOLUTION"
 msgid "Resolution:"
-msgstr ""
+msgstr ":ﺡﻮﺿﻭ "
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.REVERTBUTTON
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.REVERTBUTTON"
 msgid "Revert"
-msgstr ""
+msgstr "ﻥﺪﻧﺍﺩﺮﮔﺮﺑ "
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.TITLE"
 msgid "GRAPHICS OPTIONS"
-msgstr ""
+msgstr "ﻚﯿﻓﺍﺮﮔ ﺕﺎﻤﯿﻈﻨﺗ "
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.UI_SCALE
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.UI_SCALE"
 msgid "UI Scale"
-msgstr ""
+msgstr "UI ﺱﺎﯿﻘﻣ "
 
 #. STRINGS.UI.FRONTEND.INPUT_BINDINGS_SCREEN.APPLY
 msgctxt "STRINGS.UI.FRONTEND.INPUT_BINDINGS_SCREEN.APPLY"
@@ -66682,52 +66690,54 @@ msgid ""
 "Should I really quit?\n"
 "All unsaved progress will be lost."
 msgstr ""
+"\n ؟ﻡﻮﺸﺑ ﺝﺭﺎﺧ ﺪﯾﺎﺑ ﺎﻌﻗﺍﻭ ﺎﯾﺁ "
+".ﺖﻓﺭ ﺪﻫﺍﻮﺧ ﻦﯿﺑ ﺯﺍ ﻩﺪﺸﻧ ﻩﺮﯿﺧﺫ ىﺎﻫ ﺖﻓﺮﺸﯿﭘ ﻡﺎﻤﺗ "
 
 #. STRINGS.UI.FRONTEND.MAINMENU.DLC.ACTIVATE_EXPANSION1
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.DLC.ACTIVATE_EXPANSION1"
 msgid "ACTIVATE DLC"
-msgstr ""
+msgstr "DLC ﻥﺩﺮﻛ  ﻝﺎﻌﻓ "
 
 #. STRINGS.UI.FRONTEND.MAINMENU.DLC.ACTIVATE_EXPANSION1_DESC
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.DLC.ACTIVATE_EXPANSION1_DESC"
 msgid "The game will need to restart in order to activate <i>Spaced Out!</i>"
-msgstr ""
+msgstr "ﺩﻮﺷ ىﺯﺍﺪﻧﺍ ﻩﺍﺭ ﻩﺭﺎﺑﻭﺩ ﺪﯾﺎﺑ ىﺯﺎﺑ <i>Spaced Out!</i> ﻥﺩﺮﻛ  ﻝﺎﻌﻓ ىﺍﺮﺑ"
 
 #. STRINGS.UI.FRONTEND.MAINMENU.DLC.ACTIVATE_EXPANSION1_RAIL_DESC
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.DLC.ACTIVATE_EXPANSION1_RAIL_DESC"
 msgid ""
 "<i>Spaced Out!</i> will be activated the next time you launch the game. The "
 "game will now close."
-msgstr ""
+msgstr ".ﺪﺷ ﺪﻫﺍﻮﺧ ﻪﺘﺴﺑ ﻥﻮﻨﻛ ﺍ ىﺯﺎﺑ .ﺩﻮﺷ ﯽﻣ ﻝﺎﻌﻓ ﺪﯿﻨﻛ  ﯽﻣ ﺍﺮﺟﺍ ﺍﺭ ىﺯﺎﺑ ﻪﻛ  ﺪﻌﺑ ﻪﻌﻓﺩ <i>Spaced Out!</i> "
 
 #. STRINGS.UI.FRONTEND.MAINMENU.DLC.DEACTIVATE_EXPANSION1
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.DLC.DEACTIVATE_EXPANSION1"
 msgid "DEACTIVATE DLC"
-msgstr ""
+msgstr "DLC ﻥﺩﺮﻛ  ﻝﺎﻌﻓ ﺮﯿﻏ "
 
 #. STRINGS.UI.FRONTEND.MAINMENU.DLC.DEACTIVATE_EXPANSION1_DESC
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.DLC.DEACTIVATE_EXPANSION1_DESC"
 msgid ""
 "The game will need to restart in order to activate the <i>Oxygen Not "
 "Included</i> base game."
-msgstr ""
+msgstr ".ﺩﻮﺷ ىﺯﺍﺪﻧﺍ ﻩﺍﺭ ﻩﺭﺎﺑﻭﺩ ﺪﯾﺎﺑ ىﺯﺎﺑ <i>Oxygen Not Included</i> ﻪﯾﺎﭘ ىﺯﺎﺑ ﻥﺩﺮﻛ  ﻝﺎﻌﻓ ىﺍﺮﺑ "
 
 #. STRINGS.UI.FRONTEND.MAINMENU.DLC.DEACTIVATE_EXPANSION1_RAIL_DESC
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.DLC.DEACTIVATE_EXPANSION1_RAIL_DESC"
 msgid ""
 "<i>Spaced Out!</i> will be deactivated the next time you launch the game. "
 "The game will now close."
-msgstr ""
+msgstr ".ﺪﺷ ﺪﻫﺍﻮﺧ ﻪﺘﺴﺑ ﻥﻮﻨﻛ ﺍ ىﺯﺎﺑ .ﺩﻮﺷ ﯽﻣ ﻝﺎﻌﻓﺮﯿﻏ ﺪﯿﻨﻛ  ﯽﻣ ﺍﺮﺟﺍ ﺍﺭ ىﺯﺎﺑ ﻪﻛ  ﺪﻌﺑ ﻪﻌﻓﺩ <i>Spaced Out!</i> "
 
 #. STRINGS.UI.FRONTEND.MAINMENU.LOADGAME
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.LOADGAME"
 msgid "LOAD GAME"
-msgstr "ﻱﺯﺎﺑ ﻱﺭﺍﺬﻛﺭﺎﺑ"
+msgstr "ىﺯﺎﺑ ىﺭﺍﺬﮔﺭﺎﺑ "
 
 #. STRINGS.UI.FRONTEND.MAINMENU.NEWGAME
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.NEWGAME"
 msgid "NEW GAME"
-msgstr "ﺪﯾﺪﺟ ﯼﺯﺎﺑ ﻉﻭﺮﺷ"
+msgstr "ﺪﯾﺪﺟ ىﺯﺎﺑ "
 
 #. STRINGS.UI.FRONTEND.MAINMENU.OPTIONS
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.OPTIONS"
@@ -66754,11 +66764,13 @@ msgid ""
 "Should I really quit?\n"
 "All unsaved progress will be lost."
 msgstr ""
+"؟ﻡﻮﺷ ﺝﺭﺎﺧ ﯽﻠﺻﺍ ﯼﻮﻨﻣ ﺯﺍ ﺪﯾﺎﺑ ﺎﯾﺁ \n"
+"ﺖﻓﺭ ﺪﻫﺍﻮﺧ ﻦﯿﺑ ﺯﺍ ﻩﺪﺸﻧ ﻩﺮﯿﺧﺫ ﯼﺎﻫ ﺖﻓﺮﺸﯿﭘ ﻡﺎﻤﺗ."
 
 #. STRINGS.UI.FRONTEND.MAINMENU.RESUMEBUTTON_BASENAME
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.RESUMEBUTTON_BASENAME"
 msgid "{0}: Cycle {1}"
-msgstr ""
+msgstr "{0}: ﻪﺧﺮﭼ  {1}"
 
 #. STRINGS.UI.FRONTEND.MAINMENU.RESUMEGAME
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.RESUMEGAME"
@@ -66770,22 +66782,22 @@ msgctxt "STRINGS.UI.FRONTEND.MAINMENU.RETIRECONFIRM"
 msgid ""
 "Should I surrender under the soul-crushing weight of this universe's entropy "
 "and retire my colony?"
-msgstr ""
+msgstr "؟ﻢﻨﻛ  ﻪﺘﺴﺸﻧﺯﺎﺑ ﺍﺭ ﻡﺍ ﯽﻧﻮﻠﻛ  ﻭ ﻡﻮﺷ ﻢﯿﻠﺴﺗ ﻥﺎﻬﺟ ﻦﯾﺍ ﯽﭘﻭﺮﺘﻧﺁ ﻩﺪﻨﻨﻛ  ﺩﺮﺧ ﺡﻭﺭ ﺭﺎﺑ ﺮﯾﺯ ﺪﯾﺎﺑ ﺎﯾﺁ "
 
 #. STRINGS.UI.FRONTEND.MAINMENU.RETIREDCOLONIES
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.RETIREDCOLONIES"
 msgid "COLONY SUMMARIES"
-msgstr ""
+msgstr "ﯽﻧﻮﻠﻛ  ﻪﺻﺎﻠﺧ"
 
 #. STRINGS.UI.FRONTEND.MAINMENU.SCENARIOS
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.SCENARIOS"
 msgid "SCENARIOS"
-msgstr ""
+msgstr "ﺎﻫﻮﯾﺭﺎﻨﺳ "
 
 #. STRINGS.UI.FRONTEND.MAINMENU.STARTDEMO
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.STARTDEMO"
 msgid "START DEMO"
-msgstr ""
+msgstr "ﻮﻣﺩ ﻉﻭﺮﺷ "
 
 #. STRINGS.UI.FRONTEND.MAINMENU.TRANSLATIONS
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.TRANSLATIONS"
@@ -67511,57 +67523,57 @@ msgstr "ﯼﺯﺎﺑ ﺕﺎﻤﯿﻈﻨﺗ"
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.AUDIO
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.AUDIO"
 msgid "Audio"
-msgstr ""
+msgstr "ﺍﺪﺻ "
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.BACK
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.BACK"
 msgid "Done"
-msgstr ""
+msgstr "ﺩﻮﺷ ﻡﺎﺠﻧﺍ "
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.CONTROLS
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.CONTROLS"
 msgid "Controls"
-msgstr ""
+msgstr "ﺎﻫ ﻝﺮﺘﻨﻛ  "
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.CREDITS
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.CREDITS"
 msgid "Credits"
-msgstr ""
+msgstr "ﻥﺎﮔﺪﻧﺯﺎﺳ "
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.FEEDBACK
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.FEEDBACK"
 msgid "Feedback"
-msgstr ""
+msgstr "ﺩﺭﻮﺧﺯﺎﺑ "
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.GAME
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.GAME"
 msgid "Game"
-msgstr ""
+msgstr "ىﺯﺎﺑ "
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.GRAPHICS
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.GRAPHICS"
 msgid "Graphics"
-msgstr ""
+msgstr "ﻚﯿﻓﺍﺮﮔ "
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.LANGUAGE
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.LANGUAGE"
 msgid "Change Language"
-msgstr ""
+msgstr "ﻥﺎﺑﺯ ﺮﯿﯿﻐﺗ "
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.METRICS
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.METRICS"
 msgid "Data Collection"
-msgstr ""
+msgstr "ﺎﻫ ﻩﺩﺍﺩ ىﺭﻭﺁ ﻊﻤﺟ "
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.MODS
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.MODS"
 msgid "MODS"
-msgstr ""
+msgstr "ﺎﻫ ﺪﻣ "
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.RESET_TUTORIAL
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.RESET_TUTORIAL"
 msgid "Reset Tutorial Messages"
-msgstr ""
+msgstr "ﯽﺷﺯﻮﻣﺁ ىﺎﻫ ﻡﺎﯿﭘ ﯽﻧﺎﺸﻧﺯﺎﺑ "
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.RESET_TUTORIAL_WARNING
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.RESET_TUTORIAL_WARNING"
@@ -67569,61 +67581,63 @@ msgid ""
 "All tutorial messages will be reset, and\n"
 "will show up again the next time you play the game."
 msgstr ""
+"ﺪﺷ ﺪﻨﻫﺍﻮﺧ ﯽﻧﺎﺸﻧﺯﺎﺑ ﯽﺷﺯﻮﻣﺁ ىﺎﻫ ﻡﺎﯿﭘ ﻪﻤﻫ  \n"
+".ﺩﻮﺷ ﯽﻣ ﺮﻫﺎﻇ ﻩﺭﺎﺑﻭﺩ ﺪﯿﻫﺩ ﯽﻣ ﻡﺎﺠﻧﺍ ﺍﺭ ىﺯﺎﺑ ﻪﻛ  ﺪﻌﺑ ﻪﻌﻓﺩ ﻭ "
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.SAVE_OPTIONS
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.SAVE_OPTIONS"
 msgid "Save Options"
-msgstr ""
+msgstr "ﺕﺎﻤﯿﻈﻨﺗ ﻩﺮﯿﺧﺫ "
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.TITLE"
 msgid "OPTIONS"
-msgstr ""
+msgstr "ﺕﺎﻤﯿﻈﻨﺗ "
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.TOGGLE_SANDBOX_SCREEN.BACKUP_SAVE_GAME_APPEND
 msgctxt ""
 "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.TOGGLE_SANDBOX_SCREEN."
 "BACKUP_SAVE_GAME_APPEND"
 msgid " (BACKUP)"
-msgstr ""
+msgstr " (ىﺮﯿﮔ ﻥﺎﺒﯿﺘﺸﭘ )"
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.TOGGLE_SANDBOX_SCREEN.CANCEL
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.TOGGLE_SANDBOX_SCREEN.CANCEL"
 msgid "Cancel"
-msgstr ""
+msgstr "ﻮﻐﻟ "
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.TOGGLE_SANDBOX_SCREEN.CONFIRM
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.TOGGLE_SANDBOX_SCREEN.CONFIRM"
 msgid "Enable Sandbox Mode"
-msgstr ""
+msgstr "Sandbox ﺖﻟﺎﺣ ىﺯﺎﺳ ﻝﺎﻌﻓ "
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.TOGGLE_SANDBOX_SCREEN.CONFIRM_SAVE_BACKUP
 msgctxt ""
 "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.TOGGLE_SANDBOX_SCREEN.CONFIRM_SAVE_BACKUP"
 msgid "Enable Sandbox Mode, but save a backup first"
-msgstr ""
+msgstr "ﺪﯿﻨﻛ  ﻩﺮﯿﺧﺫ ﻥﺎﺒﯿﺘﺸﭘ ﻪﺨﺴﻧ ﻚﯾ ﺍﺪﺘﺑﺍ ﺎﻣﺍ Sandbox، ﺖﻟﺎﺣ ىﺯﺎﺳ ﻝﺎﻌﻓ "
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.TOGGLE_SANDBOX_SCREEN.UNLOCK_SANDBOX_WARNING
 msgctxt ""
 "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.TOGGLE_SANDBOX_SCREEN."
 "UNLOCK_SANDBOX_WARNING"
 msgid "Sandbox Mode will be enabled for this save file"
-msgstr ""
+msgstr "ﺪﺷ ﺪﻫﺍﻮﺧ ﻝﺎﻌﻓ ﻩﺮﯿﺧﺫ ﻞﯾﺎﻓ ﻦﯾﺍ ىﺍﺮﺑ Sandbox ﺖﻟﺎﺣ "
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.UNITS
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.UNITS"
 msgid "Temperature Units"
-msgstr ""
+msgstr "ﺎﻣﺩ ىﺎﻫﺪﺣﺍﻭ "
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.UNLOCK_SANDBOX
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.UNLOCK_SANDBOX"
 msgid "Unlock Sandbox Mode"
-msgstr ""
+msgstr "Sandbox ﺖﻟﺎﺣ ﻥﺩﺮﻛ  ﺯﺎﺑ "
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.WORLD_GEN
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.WORLD_GEN"
 msgid "World Generation Key"
-msgstr ""
+msgstr "ﻥﺎﻬﺟ ﺖﺧﺎﺳ ﺪﯿﻠﻛ  "
 
 #. STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.FULLPATCHNOTES_TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.FULLPATCHNOTES_TOOLTIP"
